@@ -1,7 +1,9 @@
+import Home from "./features/home/Home";
+
 function App() {
   return (
     <div>
-      <h1>MERN Stack</h1>
+      <Home />
     </div>
   );
 }
